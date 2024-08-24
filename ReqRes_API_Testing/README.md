@@ -6,5 +6,11 @@
 
 
 
-#Test Report 
+
+>> <img src="https://github.com/M-Rifat/API_Testing_Postman/blob/main/ReqRes_API_Testing/Tests_TestResults.png" width="600" height="80%"/>
+
+#Test Report_Collection_Runner
+>> <img src="https://github.com/M-Rifat/API_Testing_Postman/blob/main/ReqRes_API_Testing/Collection_Runner_Report.png" width="600" height="80%"/>
+
+#Test Report_Newman
 >> <img src="https://github.com/M-Rifat/API_Testing_Postman/blob/main/ReqRes_API_Testing/ReqRes1_TestReport_Newman.png"/>
