@@ -4,7 +4,7 @@
 
 - Conducted  API testing using Postman, focusing on CRUD operations. (Trello API, REQRES API)
 - Automation: Used Newman & Collection Runner for reporting.
-- **Tools**: Postman, Newman, BlazeMeter
+- **Tools**: Postman, Newman.
 
 >>- **CRUD Operations**: Comprehensive tests for creating, reading, updating, and deleting users.
 >>- **Assertions**: Validations to ensure API responses meet expected criteria.
